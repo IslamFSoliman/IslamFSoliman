@@ -1,7 +1,6 @@
 ### Hi there World!
 
 My name is Islam, I fell in love with programming since I printed my first ("Hello World!"), book worm, good cook and a bit of a nerd.
-
 Fluent in Excel VBA and SQL with Advance knowledge of Python, Currently pursuing diploma in Data Science and making efforts in shifting my career to IT industry.
 
 
