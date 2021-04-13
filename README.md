@@ -1,7 +1,7 @@
 ### Hi there World!
 
-My name is Islam, I fell in love with programming since I printed my first ("Hello World!"), book worm, good cook and a bit of a nerd.
-Fluent in Excel VBA and SQL with Advance knowledge of Python, Currently pursuing a degree in Data Science and making efforts in shifting my career to IT industry.
+My name is Islam, I fell in love with programming since I printed my first ("Hello World!"), a book worm, great cook, proud nerd with passion for learning new things.
+Fluent in Excel VBA, SQL, and Python, Currently pursuing a Masters Degree in Data Science and while working as a Business Analyst in the IT industry.
 
 
 <!--
